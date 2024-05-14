@@ -1,3 +1,6 @@
+## Lab 6
+### By: Advaith Ravishankar
+
 1. Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
 
 ANS: Within a Github action that runs whenever code is pushed 
